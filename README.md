@@ -1,6 +1,6 @@
 # observium-backup
 
-# Setup
+# Setup
 
 1. `cp .env.example .env`
 2. `nano .env`
